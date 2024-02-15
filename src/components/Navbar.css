@@ -1,0 +1,38 @@
+.navbar {
+  padding: 10px 0;
+  background-color: #343a40;
+}
+
+.navbar-brand {
+  font-size: 1.8rem; 
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+  align-items: center;
+}
+
+.navbar-brand img {
+  width: 50px; 
+  height: auto; 
+  margin-right: 10px;
+}
+
+.navbar-toggler {
+  border: none;
+  outline: none;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.nav-link {
+  font-size: 1.4rem; 
+  padding: 0.7rem 1.5rem;
+  color: #ffffff; 
+  transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+  background-color: #555d66;
+}
