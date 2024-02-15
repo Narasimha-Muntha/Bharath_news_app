@@ -29,9 +29,16 @@ To run this project locally, make sure you have Node.js installed on your machin
 Libraries Required:
 
 react
+
 npm install react-router-dom
+
+
 npm install react-bootstrap
+
+
 Run npm install to install dependencies.
+
+
 Run npm start to start the development server.
 
 
